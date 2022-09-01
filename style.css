@@ -3,5 +3,9 @@ img {
 }
 
 h1 {
+<<<<<<< HEAD
   font-size: 2rem;
+=======
+  color: violet;
+>>>>>>> tests
 }
